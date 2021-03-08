@@ -1,2 +1,2 @@
 # omigo-redesign
-Redesign omigo.ir ! a weblog service
+Redesign omigo.ir! a weblog service
